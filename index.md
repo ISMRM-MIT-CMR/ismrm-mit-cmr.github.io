@@ -29,5 +29,5 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 [Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)
 
 ## Challenges
-[CMR physics challenge](https://github.com/ISMRM-MIT-CMR/Overview/wiki/CMR-physics-challenge)<br/>
-[CMR deep learning reconstruction challenge](https://github.com/ISMRM-MIT-CMR/Overview/wiki/CMR-deep-learning-reconstruction-challenge)
+[CMR physics challenge](CMR-physics-challenge.md)<br/>
+[CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
