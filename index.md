@@ -1,4 +1,4 @@
-<img src="https://github.com/ISMRM-MIT-CMR/Overview/blob/main/MIT_logo_small.jpg" height="80%" width="80%"></img>
+<img src="MIT_logo_small.jpg" height="80%" width="80%"/>
 ## ISMRM Member initiated tutorial
 
 ## Overview
