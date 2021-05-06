@@ -2,6 +2,6 @@ title: ISMRM Member-Initiated Tutorial  Cardiovascular MR
 description: Tutorials and challenges
 theme: jekyll-theme-cayman
 
-header_pages:
-  - index.md
-  - CMR-physics-challenge.md
+sass:
+  sass_dir: css
+  style:    compressed
