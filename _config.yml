@@ -3,5 +3,5 @@ description: Tutorials and challenges
 theme: jekyll-theme-cayman
 
 header_pages:
-  - rumerica/index.md
+  - index.md
   - CMR-physics-challenge.md
