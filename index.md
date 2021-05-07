@@ -30,6 +30,28 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 [Tutorial session: Saturday, May 15 2021, 16:00 - 20:00 UTC](https://www.ismrm.org/21/program-files/T-04.htm)<br/>
 [Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)
 
+### Organization/moderation
+[Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
+
+### Speakers
+1. Tevfik F. Ismail, MD, FSCMR<br/>
+King's College London, United Kingdom<br/>
+<b>Clinical Cardiovascular MR: What do we see and why do we need it?</b>
+2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
+Queensland X-Ray, Mater Hospital Brisbane, Australia<br/>
+<b>Clinical CMR: How should we perform the examination</b>
+3. Sebastian Weingärtner, PhD<br/>
+Delft University of Technology, Netherlands<br/>
+<b>The Physics behind Cardiovascular MR & Challenge</b>
+4. Kerstin Hammernik, PhD<br/>
+Technical University of Munich, Germany<br/>
+<b>Recent Advances in Machine Learning for CMR & Challenge</b>
+
 ## Challenges
 [CMR physics challenge](CMR-physics-challenge.md)<br/>
 [CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
+
+## Contact info 
+If you have any questions, please contact:<br/>
+[Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) <br/>
+[Thomas Küstner](http://www.midaslab.org/people.html) 
