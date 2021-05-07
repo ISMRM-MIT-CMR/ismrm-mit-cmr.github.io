@@ -2,11 +2,11 @@
 
 ## ISMRM Member initiated tutorial
 
-| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [Deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md) |
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [Deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) |
 
 ## Overview
 Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of imaging and reconstruction methods pose some limitations to the widespread use of CMR. Therefore, it is necessary to bridge the gap between the clinical and scientific communities. 
-The tutorial at the ISMRM 2021 annual meeting on **Saturday 15th of May 2021, 16:00 to 20:00 UTC** will cover in five sessions different aspects of CMR:  
+The tutorial at the ISMRM 2021 annual meeting on **Saturday 15th of May 2021, 16:00 to 20:30 UTC** will cover in five sessions different aspects of CMR:  
 1. CMR methods for identifying cardiovascular disease with a case-based tutorial
 2. Conduction and planning of a complete CMR exam
 3. CMR pulse sequence building with a live computational MR physics tutorial
@@ -27,7 +27,7 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 * Explain the basics of deep learning-based methods for image reconstruction.
 
 ## Sessions
-[Tutorial session: Saturday, May 15 2021, 16:00 - 20:00 UTC](https://www.ismrm.org/21/program-files/T-04.htm)<br/>
+[Tutorial session: Saturday, May 15 2021, 16:00 - 20:30 UTC](https://www.ismrm.org/21/program-files/T-04.htm)<br/>
 [Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)
 
 ### Organization/moderation
