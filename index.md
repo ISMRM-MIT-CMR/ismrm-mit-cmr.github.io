@@ -34,7 +34,7 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 [Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
 
 ### Speakers
-1. Tevfik F. Ismail, MD, FSCMR<br/>
+1. Tevfik F. Ismail, MD, PhD, FSCMR<br/>
 King's College London, United Kingdom<br/>
 <b>Clinical Cardiovascular MR: What do we see and why do we need it?</b>
 2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
