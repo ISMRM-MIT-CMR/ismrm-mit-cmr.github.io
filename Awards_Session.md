@@ -10,14 +10,14 @@ Please sign in with the password received from the conference. Then, type in you
 
 **The presentation can also be viewed live outside of gather.town by following the link provided by ISMRM for this session.**
 
-<img src="DiscoveryLectureHall.jpg" height="80%" width="80%"/>
+<img src="DiscoveryLectureHall.jpg" height="40%" width="40%"/>
 
 2️⃣ The **second part of the session** will consist of a poster session in the **Discovery poster hall**, where the solutions are displayed with opportunity for networking and discussion with the submitters.
 
-<img src="DiscoveryPosterHall.jpg" height="80%" width="80%"/>
+<img src="DiscoveryPosterHall.jpg" height="40%" width="40%"/>
 
 🆘 If you’re having trouble finding the Discovery rooms you can search for Teresa Correia and Thomas Küstner in the *Participants* menu. Then, you can use **Locate** to find them. They will be waiting for you in the Discovery room!  
-<img src="DiscoveryRoomsLocate.jpg" height="80%" width="80%"/>
+<img src="DiscoveryRoomsLocate.jpg" height="40%" width="40%"/>
 
 🛈 Gather 101 - how to use and move:
 https://support.gather.town/help/movement-and-basics
