@@ -1,5 +1,9 @@
 # 🏆 Awards Session
 
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Award](Awards_Session.md) | 
+
+
+## Description
 The awards session will take place in the **Discovery rooms** within the Captain George Vancouver Tutorial spaces of the ISMRM's **gather.town** space:
 
 Link: *coming soon*
@@ -19,7 +23,7 @@ Please sign in with the password received from the conference. Then, type in you
 <img src="DiscoveryPosterHall.jpg" height="45%" width="45%"/>
 
 
-🆘 If you’re having trouble finding the Discovery rooms you can search for Teresa Correia and Thomas Küstner in the *Participants* menu. Then, you can use **Locate** to find them. They will be waiting for you in the Discovery room!  
+🆘 If you’re having trouble finding the Discovery rooms you can search for Teresa Correia and Thomas Küstner in the *Participants* menu. Then, you can use **Locate on map** to find them. They will be waiting for you in the Discovery room!  
 
 <img src="DiscoveryRoomsLocate.jpg" height="35%" width="35%"/>
 
