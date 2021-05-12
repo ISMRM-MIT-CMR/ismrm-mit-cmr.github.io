@@ -2,7 +2,7 @@
 
 ## ISMRM Member initiated tutorial
 
-| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Award](Awards_Session.md) | 
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Awards](Awards_Session.md) | 
 
 ## Overview
 Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of imaging and reconstruction methods pose some limitations to the widespread use of CMR. Therefore, it is necessary to bridge the gap between the clinical and scientific communities. 
