@@ -1,6 +1,6 @@
 # Tutorial session
 
-| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Award](Awards_Session.md) | 
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Awards](Awards_Session.md) | 
 
 ## Description
 [Tutorial session: Saturday, May 15 2021, 16:00 - 20:30 UTC](https://www.ismrm.org/21/program-files/T-04.htm)
