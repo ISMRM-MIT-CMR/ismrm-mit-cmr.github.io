@@ -4,6 +4,7 @@
 
 
 ## Description
+[Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)<br/>
 The awards session will take place in the **Discovery rooms** within the Captain George Vancouver Tutorial spaces of the ISMRM's **gather.town** space:
 
 Link: *coming soon*
