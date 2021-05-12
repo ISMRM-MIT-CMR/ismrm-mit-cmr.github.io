@@ -12,12 +12,18 @@ In this challenge you get to work with a spoiled gradient echo sequence (spGRE).
 [https://github.com/ISMRM-MIT-CMR/CMR-physics-challenge](https://github.com/ISMRM-MIT-CMR/CMR-physics-challenge)
 
 ## Submission
-Deadline: Wednesday 19th of May 2021, 23:59 UTC
+**Deadline:** Wednesday 19th of May 2021, 23:59 UTC <br/>
+Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. 
 
-Please fill out the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSf8k7CmFahOMK5AIYrwbP6-JGJQtZlaQukiGHiI18ZwEKLiLw/viewform?usp=sf_link):
-- **Abtract:** Provide a short abstract (max. 150 words) about your solution
-- **Figure:** Upload an overview figure depicting your final pulse sequence as well as the simulated imaging result
-- **Results:** Upload your results as `*.npz` file containing the modified pulse sequence code.
+**Template:** Please fill out the [template](template/ISMRM_MIT_CMR_PhysicsChallenge.potx) slide with 
+- Abstract: Provide a short abstract (max. 150 words) about your solution
+- Figure: Provide an overview figure depicting your final pulse sequence as well as the simulated imaging result
+
+**Submission:**
+Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. <br/>
+Please fill out the [submission form](http://form-timer.com/start/db776e75) and upload in this form:
+- Template: Containing your abstract and overview figure
+- Results: Your results as `*.npz` file containing the modified pulse sequence code
 
 ## Solution
-The solution will be discussed and presented in the live session on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
+The solution will be discussed and presented in the [live session](Awards_Session.md) on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
