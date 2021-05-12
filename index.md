@@ -2,7 +2,7 @@
 
 ## ISMRM Member initiated tutorial
 
-| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [Deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) |
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Award](Awards_Session.md) | 
 
 ## Overview
 Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of imaging and reconstruction methods pose some limitations to the widespread use of CMR. Therefore, it is necessary to bridge the gap between the clinical and scientific communities. 
@@ -27,8 +27,8 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 * Explain the basics of deep learning-based methods for image reconstruction.
 
 ## Sessions
-[Tutorial session: Saturday, May 15 2021, 16:00 - 20:30 UTC](https://www.ismrm.org/21/program-files/T-04.htm)<br/>
-[Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)
+[Tutorial session: Saturday, May 15 2021, 16:00 - 20:30 UTC](Tutorial_session.md)<br/>
+[Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](Awards_Session.md)
 
 ### Organization/moderation
 [Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
