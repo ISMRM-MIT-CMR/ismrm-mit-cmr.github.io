@@ -30,4 +30,4 @@ Please sign in with the password received from the conference. Then, type in you
 
 
 🛈 Gather 101 - how to use and move:
-https://support.gather.town/help/movement-and-basics
+[https://support.gather.town/help/movement-and-basics](https://support.gather.town/help/movement-and-basics)
