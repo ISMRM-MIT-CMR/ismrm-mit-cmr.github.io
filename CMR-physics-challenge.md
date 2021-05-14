@@ -36,7 +36,7 @@ Pulse sequences in MRI describe all components that are necessary to acquire an 
 In this challenge you get to work with a spoiled gradient echo sequence (spGRE). The coding challenge is based on a script that simulates the effect of the pulse sequence on the MR image. Your task is to amend the basic spGRE sequence in such a way that it becomes resilient to flow artifacts. The script simulates the sequence based on gradient traces on three axes and a single trace for the RF pulse. What components can be added and how can those traces be modified to create flow compensated imaging? How do the simulated image results change in response to your sequence developments? Help our virtual radiographers and save the day by eliminating artifacts with the power of pulse sequence development!
 
 ### Code
-The link to the code (Jupyter notebook) is provided the [submission form](http://form-timer.com/start/db776e75)
+The link to the code (Jupyter notebook) is provided in the [submission form](http://form-timer.com/start/db776e75)
 
 ### Submission
 **Deadline:** Wednesday 19th of May 2021, 11:59 UTC <br/>
