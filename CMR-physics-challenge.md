@@ -25,6 +25,32 @@
   
 </details>
 
+## header 2
+
+<nav>
+  <ul>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif nav.title == page.title %}
+         <li class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav> 
 
 ## Tutorial
 Pulse sequences in MRI describe all components that are necessary to acquire an MR image with the desired contrast. The beauty of MRI is that by virtue of using different pulse sequences, different imaging information can be obtained, allowing for comprehensive assessment of the tissue in question. However, at the same time, inadvertently chosen pulse sequences lead to artifacts and can make the images unusable. In particular in cardiac MR, the righ pulse sequence choice is crucial for adequate image quality due to a number of artifact sources including motion and flow artifacts.
