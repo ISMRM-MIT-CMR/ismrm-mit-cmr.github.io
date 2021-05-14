@@ -1,6 +1,6 @@
 # CMR physics challenge
 
-| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Awards](Awards_Session.md) |
+| [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon tutorial & challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Awards](Awards_Session.md) |
 
 ## Description
 Pulse sequences in MRI describe all components that are necessary to acquire an MR image with the desired contrast. The beauty of MRI is that by virtue of using different pulse sequences, different imaging information can be obtained, allowing for comprehensive assessment of the tissue in question. However, at the same time, inadvertently chosen pulse sequences lead to artifacts and can make the images unusable. In particular in cardiac MR, the righ pulse sequence choice is crucial for adequate image quality due to a number of artifact sources including motion and flow artifacts.
