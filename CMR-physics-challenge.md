@@ -1,32 +1,5 @@
 # CMR physics tutorial and challenge
 
-
-[Home](index.md)
-
-<details open><summary><a href="Tutorial_session.md">
-  Tutorial I</a>
-  </summary>
-  
-  [Clinical Cardiovascular MR](Talk1.md)<br/>
-  [Planning a CMR exam](Talk2.md)<br/>
-  [CMR Physics](CMR-physics-challenge.md)<br/>
-  [CMR Deep learning](CMR-deep-learning-reconstruction-challenge.md)
-  
-</details>
-
-
-[Tutorial II/Awards](Awards_Session.md)
-
-  
-<details open><summary>Challenges</summary>
-  
-  [CMR Physics Challenge](CMR-physics-challenge.md)<br/>
-  [CMR Deep learning Challenge](CMR-deep-learning-reconstruction-challenge.md)
-  
-</details>
-
-## header 2
-
 <nav>
   <ul>
     <table>
