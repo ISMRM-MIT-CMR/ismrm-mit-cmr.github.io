@@ -1,7 +1,7 @@
 - title: "Home"
 
 - title: "Tutorial 1"
-  href: "Tutorial_session.html"
+  href: "/Tutorial_session.html"
   subcategories:
     - subtitle: "Clinical Cardiovascular MR"
       subhref: "/Talk1.html"
