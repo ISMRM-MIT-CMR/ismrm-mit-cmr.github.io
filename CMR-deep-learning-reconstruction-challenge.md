@@ -1,8 +1,11 @@
-# CMR deep learning reconstruction challenge
+# CMR deep learning reconstruction tutorial and challenge
 
 | [Home](index.md) | [Physics challenge](CMR-physics-challenge.md) | [DL recon challenge](CMR-deep-learning-reconstruction-challenge.md) | [Material](encrypted.html) | [Tutorial I](Tutorial_session.md) | [Tutorial II/Awards](Awards_Session.md) | 
 
 ## Description
+Overview
+
+## Tutorial
 Overview
 
 ## Challenge
