@@ -1,23 +1,23 @@
 - title: "Home"
 
 - title: "Tutorial 1"
-  href: "Tutorial_session.md"
+  href: "Tutorial_session.html"
   subcategories:
     - subtitle: "Clinical Cardiovascular MR"
-      subhref: "/Talk1.md"
+      subhref: "/Talk1.html"
     - subtitle: "Planning a CMR exam"
-      subhref: "/Talk2.md"
-    - subtitle: "CMR Physics]"
-      subhref: "/CMR-physics-challenge.md"
+      subhref: "/Talk2.html"
+    - subtitle: "CMR Physics"
+      subhref: "/CMR-physics-challenge.html"
     - subtitle: "CMR Deep learning"
-      subhref: "/CMR-deep-learning-reconstruction-challenge.md"
+      subhref: "/CMR-deep-learning-reconstruction-challenge.html"
 
 - title: "Tutorial 2/Awards"
-  href: "/Awards_session.md"
+  href: "/Awards_session.html"
   
 - title: "Challenges"
   subcategories:
     - subtitle: "CMR Physics challenge"
-      subhref: "/CMR-physics-challenge.md"
+      subhref: "/CMR-physics-challenge.html"
     - subtitle: "CMR DL Recon challenge"
-      subhref: "/CMR-deep-learning-reconstruction-challenge.md"
+      subhref: "/CMR-deep-learning-reconstruction-challenge.html"
