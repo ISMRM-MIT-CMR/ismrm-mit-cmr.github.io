@@ -29,4 +29,5 @@
   </ul>
 </nav> 
 
+## Tutorial
 This tutorial will cover basic cardiac anatomy and function, common cardiovascular diseases and cardiomyopathies as well as the clinical CMR protocols used for their diagnosis.
