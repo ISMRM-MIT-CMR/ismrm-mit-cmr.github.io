@@ -1,39 +1,33 @@
 # CMR deep learning reconstruction tutorial and challenge
 
-<table>
-  <tr>
-    <td>
-      
-[Home](index.md)
-</td>
-<td>
-  
-<details open><summary><a href="Tutorial_session.md">
-  Tutorial I</a>
-  </summary>
-  
-  [Clinical Cardiovascular MR](Talk1.md)<br/>
-  [Planning a CMR exam](Talk2.md)<br/>
-  [CMR Physics](CMR-physics-challenge.md)<br/>
-  [CMR Deep learning](CMR-deep-learning-reconstruction-challenge.md)
-  
-</details>
-</td>
-<td>
-
-[Tutorial II/Awards](Awards_Session.md)
-</td>
-<td>
-  
-<details open><summary>Challenges</summary>
-  
-  [CMR Physics Challenge](CMR-physics-challenge.md)<br/>
-  [CMR Deep learning Challenge](CMR-deep-learning-reconstruction-challenge.md)
-  
-</details>
-</td>
-</tr>
-</table>
+<nav>
+  <ul>
+    <table>
+    <tr>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <td>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </td>
+      {% elsif nav.title == page.title %}
+         <td class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </td>
+      {% else %} 
+        <td>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </td>
+      {% endif %}
+    {% endfor %}
+      </tr>
+    </table>
+  </ul>
+</nav> 
 
 ## Tutorial
 
