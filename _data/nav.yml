@@ -1,0 +1,20 @@
+- title: "Home"
+  href: "index.md"
+
+- title: "Tutorial 1"
+  href: "Tutorial_session.md"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
+
+- title: "Tutorial 2/Awards"
+  href: "Awards_session.md"
+  
+- title: "Challenges"
+  subcategories:
+    - subtitle: "CMR Physics challenge"
+      subhref: "CMR-physics-challenge.md"
+    - subtitle: "CMR DL Recon challenge"
+      subhref: "CMR-deep-learning-reconstruction-challenge.md"
