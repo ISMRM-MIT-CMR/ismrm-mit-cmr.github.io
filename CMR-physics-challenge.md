@@ -29,26 +29,30 @@
 
 <nav>
   <ul>
+    <table>
+    <tr>
     {% for nav in site.data.nav %}
       {% if nav.subcategories != null %}
-        <li>
+        <td>
           <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
           <ul>
           {% for subcategory in nav.subcategories %}
             <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
           {% endfor %}
           </ul>
-        </li>
+        </td>
       {% elsif nav.title == page.title %}
-         <li class="active">
+         <td class="active">
            <a href="{{ nav.url }}">{{ nav.title }}</a>
-         </li>
+         </td>
       {% else %} 
-        <li>
+        <td>
           <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
-        </li>
+        </td>
       {% endif %}
     {% endfor %}
+      </tr>
+    </table>
   </ul>
 </nav> 
 
