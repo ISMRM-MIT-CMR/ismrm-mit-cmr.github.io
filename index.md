@@ -39,7 +39,7 @@ King's College London, United Kingdom<br/>
 <b>Clinical Cardiovascular MR: What do we see and why do we need it?</b>
 2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
 Queensland X-Ray, Mater Hospital Brisbane, Australia<br/>
-<b>Clinical CMR: How should we perform the examination</b>
+<b>Clinical Cardiovascular MR: How should we perform the examination</b>
 3. Sebastian Weingärtner, PhD<br/>
 Delft University of Technology, Netherlands<br/>
 <b>The Physics behind Cardiovascular MR & Challenge</b>
