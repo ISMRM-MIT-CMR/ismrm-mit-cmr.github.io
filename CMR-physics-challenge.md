@@ -53,7 +53,7 @@ Once you open the [submission link](http://form-timer.com/start/db776e75), you h
 Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. <br/>
 Please fill out the [submission form](http://form-timer.com/start/db776e75) and upload in this form:
 - Template: Containing your abstract and overview figure
-- Results: Your results as `*.npz` file containing the modified pulse sequence code
+- Results: Your Jupyter notebook as `*.ipynb` containing the modified pulse sequence code
 
 ### Solution
 The solution will be discussed and presented in the [live session](Awards_Session.md) on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
