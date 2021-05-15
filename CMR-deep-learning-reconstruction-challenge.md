@@ -36,8 +36,6 @@ This tutorial will cover the basic building blocks needed for deep learning in C
 ### Code
 [https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge](https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_complex_activations.ipynb)
-
 
 ## Challenge
 Deep plug-and-play priors exploit the advantages of learning an advanced denoising scheme offline and plugging it into any optimization scheme to solve inverse problems, such as Magnetic Resonance Image Reconstruction.
