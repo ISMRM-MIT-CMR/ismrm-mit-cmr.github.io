@@ -49,7 +49,7 @@ The goal of this challenge is to find a way to reconstruct complex-valued MR ima
 
 The code parts that have to be changed are marked with TODO.
 
-The dataset subject1.h5, containing fully sampled k-space, can be used for quantitative and qualitative evaluation in the deployment phase. The results have to be generated for subject2.h5, which contains the undersampled k-space. The challenge will be evaluated quantitatively using the normalized root mean squared error (NRMSE), and based on the creativity and complexity to generate the solution.
+The dataset `subject1.h5`, containing fully sampled k-space, can be used for quantitative and qualitative evaluation in the deployment phase. The results have to be generated for `subject2.h5`, which contains the undersampled k-space. The challenge will be evaluated quantitatively using the normalized root mean squared error (NRMSE), and based on the creativity and complexity to generate the solution.
 
 We are looking forward to your creative submissions! Happy coding!
 
