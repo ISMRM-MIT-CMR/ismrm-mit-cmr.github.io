@@ -79,7 +79,7 @@ Technical University of Munich, Germany<br/>
 [CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
 
 ## Live scanning
-🎥 [Live scanning video](encrypted.html)
+[Live scanning video](encrypted.html)
 
 ## Contact info 
 If you have any questions, please contact:<br/>
