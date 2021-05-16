@@ -32,7 +32,7 @@
 ## Tutorial
 This tutorial shows how to conduct and plan a complete CMR examination. It will link the presented cardiovascular disease cases of session 1 to a clinically performed CMR protocol. It will also cover how to prepare a patient for a CMR scan, standard procedures and common mistakes, potential image artefacts together with their causes and how to minimize them. 
 
-## Material 
+## Material
 LIVE scanning video by Wendy Strugnell [here](encrypted.html)
 
 (password provided in the live session)
