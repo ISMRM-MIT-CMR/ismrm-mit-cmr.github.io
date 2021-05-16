@@ -34,3 +34,4 @@ This tutorial shows how to conduct and plan a complete CMR examination. It will 
 
 ## Material 
 🎥 LIVE scanning video by Wendy Strugnell [here](encrypted.html)
+(password provided in the live session)
