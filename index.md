@@ -63,20 +63,23 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 ### Speakers
 1. Tevfik F. Ismail, MD, PhD, FSCMR<br/>
 King's College London, United Kingdom<br/>
-<b>Clinical Cardiovascular MR: What do we see and why do we need it?</b>
+<b>[Clinical Cardiovascular MR: What do we see and why do we need it?](Talk1.md)</b>
 2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
 Queensland X-Ray, Mater Hospital Brisbane, Australia<br/>
-<b>Clinical Cardiovascular MR: How should we perform the examination</b>
+<b>[Clinical Cardiovascular MR: How should we perform the examination](Talk2.md)</b>
 3. Sebastian Weingärtner, PhD<br/>
 Delft University of Technology, Netherlands<br/>
-<b>The Physics behind Cardiovascular MR & Challenge</b>
+<b>[The Physics behind Cardiovascular MR & Challenge](CMR-physics-challenge.md)</b>
 4. Kerstin Hammernik, PhD<br/>
 Technical University of Munich, Germany<br/>
-<b>Recent Advances in Machine Learning for CMR & Challenge</b>
+<b>[Recent Advances in Machine Learning for CMR & Challenge](CMR-deep-learning-reconstruction-challenge.md)</b>
 
 ## Challenges
 [CMR physics challenge](CMR-physics-challenge.md)<br/>
 [CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
+
+## Live scanning
+🎥 [Live scanning video](encrypted.html)
 
 ## Contact info 
 If you have any questions, please contact:<br/>
