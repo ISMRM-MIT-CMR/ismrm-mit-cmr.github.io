@@ -57,7 +57,7 @@ We are looking forward to your creative submissions! Happy coding!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play.ipynb)
 
 ### Submission
-**Deadline:** Wednesday 19th of May 2021, 11:59 am UTC
+**Deadline:** Wednesday 20th of May 2021, 11:59 am UTC
 
 **Template:** Please fill out the [template](template/ISMRM_MIT_CMR_ReconChallenge.potx) slide with 
 - Abstract: Provide a short abstract (max. 150 words) about your solution
