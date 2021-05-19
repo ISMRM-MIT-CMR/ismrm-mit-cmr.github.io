@@ -42,7 +42,7 @@ In this challenge you get to work with a spoiled gradient echo sequence (spGRE).
 The link to the code (Jupyter notebook) is provided in the [submission form](http://form-timer.com/start/db776e75). Please use the password provided in the Tutorial session.
 
 ### Submission
-**Deadline:** Wednesday 19th of May 2021, 11:59 am UTC <br/>
+**Deadline:** Wednesday 20th of May 2021, 11:59 am UTC <br/>
 Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. 
 
 **Template:** Please fill out the [template](template/ISMRM_MIT_CMR_PhysicsChallenge.potx) slide with 
