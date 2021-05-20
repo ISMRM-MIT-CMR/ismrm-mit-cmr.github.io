@@ -34,7 +34,7 @@
 [Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](https://www.ismrm.org/21/program-files/T-31.htm)<br/>
 The awards session will take place in the **Discovery rooms** within the Captain George Vancouver Tutorial spaces of the ISMRM's **gather.town** space:
 
-Link on Pathable: https://ismrm-smrt21.us3.pathable.com/meetings/virtual/j4yfFD4xaGeGkznLi
+Link on Pathable: [https://ismrm-smrt21.us3.pathable.com/meetings/virtual/j4yfFD4xaGeGkznLi](https://ismrm-smrt21.us3.pathable.com/meetings/virtual/j4yfFD4xaGeGkznLi)
 
 Please sign in with the password received from the conference. Then, type in your full name (first name & last name) as you first enter the space so others can recognize you (this is your conference badge!). You will find the tutorial spaces to your left as you enter the Mount Seymour lobby. 
 
