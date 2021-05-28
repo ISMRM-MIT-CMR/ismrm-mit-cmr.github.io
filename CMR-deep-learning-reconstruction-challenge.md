@@ -57,7 +57,6 @@ We are looking forward to your creative submissions! Happy coding!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play.ipynb)
 
 ### Submission [CLOSED]
-<span style="color:gray">
 
 **Deadline:** Wednesday 20th of May 2021, 11:59 am UTC
 
@@ -70,7 +69,6 @@ Please fill out the submission form and upload in this form:
 - Template: Containing your abstract and overview figure
 - Results: Your Jupyter notebook as `*.ipynb` containing your solution 
 
-</span>
   
 ### Solution
 The solution will be discussed and presented in the [live session](Awards_Session.md) on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
