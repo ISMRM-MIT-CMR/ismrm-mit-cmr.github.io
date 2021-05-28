@@ -39,19 +39,20 @@ Pulse sequences in MRI describe all components that are necessary to acquire an 
 In this challenge you get to work with a spoiled gradient echo sequence (spGRE). The coding challenge is based on a script that simulates the effect of the pulse sequence on the MR image. Your task is to amend the basic spGRE sequence in such a way that it becomes resilient to flow artifacts. The script simulates the sequence based on gradient traces on three axes and a single trace for the RF pulse. What components can be added and how can those traces be modified to create flow compensated imaging? How do the simulated image results change in response to your sequence developments? Help our virtual radiographers and save the day by eliminating artifacts with the power of pulse sequence development!
 
 ### Code
-The link to the code (Jupyter notebook) is provided in the [submission form](http://form-timer.com/start/db776e75). Please use the password provided in the Tutorial session.
+The link to the code (Jupyter notebook) is provided in the submission form. Please use the password provided in the Tutorial session.
 
-### Submission
+### Submission [CLOSED]
+
 **Deadline:** Wednesday 20th of May 2021, 11:59 am UTC <br/>
-Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. 
+Once you open the submission link, you have **90 minutes** to submit your solution. 
 
 **Template:** Please fill out the [template](template/ISMRM_MIT_CMR_PhysicsChallenge.potx) slide with 
 - Abstract: Provide a short abstract (max. 150 words) about your solution
 - Figure: Provide an overview figure depicting your final pulse sequence diagram as well as the simulated imaging result
 
 **Submission:**
-Once you open the [submission link](http://form-timer.com/start/db776e75), you have **90 minutes** to submit your solution. <br/>
-Please fill out the [submission form](http://form-timer.com/start/db776e75) and upload in this form:
+Once you open the submission link, you have **90 minutes** to submit your solution. <br/>
+Please fill out the submission form and upload in this form:
 - Template: Containing your abstract and overview figure
   - A short abstract on your solution
 	- A plot of your sequence diagram
@@ -60,3 +61,5 @@ Please fill out the [submission form](http://form-timer.com/start/db776e75) and 
 
 ### Solution
 The solution will be discussed and presented in the [live session](Awards_Session.md) on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
+
+Example solution code: 
