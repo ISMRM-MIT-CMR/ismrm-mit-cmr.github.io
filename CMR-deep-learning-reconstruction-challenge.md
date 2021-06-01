@@ -36,6 +36,12 @@ This tutorial will cover the basic building blocks needed for deep learning in C
 ### Code
 [https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge](https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge)
 
+- Image Denoising
+  - Real-valued denoising (magnitude images) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_denoising_real.ipynb)
+  - Complex-valued denoising, where real and imaginary part are stored in separate channels. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_denoising_2chreal.ipynb)
+  - Complex-valued denoising, with complex convolutions and complex activations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_denoising_complex.ipynb)
+- Image Reconstruction with complex convolutions and complex activations  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_reconstruction_complex.ipynb)
+- Complex Activation Functions Workbook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_complex_activations.ipynb) and solutions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/tutorial_complex_activations_solutions.ipynb)
 
 ## Challenge
 Deep plug-and-play priors exploit the advantages of learning an advanced denoising scheme offline and plugging it into any optimization scheme to solve inverse problems, such as Magnetic Resonance Image Reconstruction.
@@ -54,7 +60,7 @@ We are looking forward to your creative submissions! Happy coding!
 ### Code
 [https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge](https://github.com/ISMRM-MIT-CMR/CMR-DL-challenge)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play.ipynb)
+Deep Plug-and-Play Prior for cardiac CINE: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play.ipynb)
 
 ### Submission [CLOSED]
 
@@ -73,5 +79,5 @@ Please fill out the submission form and upload in this form:
 ### Solution
 The solution will be discussed and presented in the [live session](Awards_Session.md) on Thursday, May 20 2021 at 18:00 - 19:00 UTC, and the challenge winners will be announced.
 
-Exemplary solution code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play_sample_solution.ipynb)
+Exemplary solution for Deep Plug-and-Play Prior for cardiac CINE: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-DL-challenge/blob/master/challenge_plug_and_play_sample_solution.ipynb)
 
