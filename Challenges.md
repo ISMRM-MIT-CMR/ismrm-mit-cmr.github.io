@@ -30,6 +30,6 @@
 </nav>
 
 ## Description
-Hands-on tutorials are provided several Jupyter notebooks together with in-vivo examples.
-[CMR physics challenge](CMR-physics-challenge.md)<br/>
-[CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
+Hands-on tutorials are provided several Jupyter notebooks together with in-vivo examples
+- [CMR physics challenge](CMR-physics-challenge.md)<br/>
+- [CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)

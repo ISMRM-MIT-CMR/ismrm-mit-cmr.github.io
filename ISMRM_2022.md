@@ -32,7 +32,7 @@
 </nav>
 
 ## Overview
-Cardiovascular disease (CVD) is the leading single cause of morbidity and mortality worldwide. Therefore, improving prevention, diagnosis and treatment of CVD is a global priority. Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of methods pose limitations to the widespread use of CMR, which has become even more evident with the recent developments in artificial intelligence (AI). In addition, questions are being raised about how AI will affect the role of clinicians working in CMR and its trustworthiness. Hence, it is necessary to bridge the gap between the clinical and scientific communities.
+Cardiovascular disease (CVD) is the leading single cause of morbidity and mortality worldwide. Therefore, improving prevention, diagnosis and treatment of CVD is a global priority. Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of methods pose limitations to the widespread use of CMR, which has become even more evident with the recent developments in artificial intelligence (AI). In addition, questions are being raised about how AI will affect the role of clinicians working in CMR and its trustworthiness. Hence, it is necessary to bridge the gap between the clinical and scientific communities.<br/>
 The tutorial at the ISMRM 2022 annual meeting on **Tuesday 10th of May 2022, 09:15 to 11:15 UTC+1** will cover in four talks different aspects of CMR:  
 1. CMR methods for identifying CVD
 2. Conduction and planning of a complete CMR exam
