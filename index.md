@@ -36,6 +36,7 @@ Cardiovascular magnetic resonance (CMR) has emerged as a clinically important te
 We hosted two ISMRM Member initiated tutorials at the
 - [ISMRM 2021](Tutorial_session.md): Cardiovascular MR - From Theory to Practice
 - [ISMRM 2022](ISMRM_2022.md): Cardiovascular MR - With a little help from AI
+
 annual meetings which covered the topics:
 
 1. CMR methods for identifying cardiovascular disease with a case-based tutorial
