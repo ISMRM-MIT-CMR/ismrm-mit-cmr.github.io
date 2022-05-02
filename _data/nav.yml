@@ -1,6 +1,6 @@
 - title: "Home"
 
-- title: "Tutorial 1"
+- title: "ISMRM 2021"
   href: "/Tutorial_session.html"
   subcategories:
     - subtitle: "Clinical Cardiovascular MR"
@@ -11,13 +11,16 @@
       subhref: "/CMR-physics-challenge.html"
     - subtitle: "CMR Deep learning"
       subhref: "/CMR-deep-learning-reconstruction-challenge.html"
-  
+    - subtitle: "Award session"
+      subhref: "/Awards_Session.html"
+
+- title: "ISMRM 2022"
+  href: "/ISMRM_2022.html"
+
 - title: "Challenges"
+  href: "/Challenges.html"
   subcategories:
     - subtitle: "CMR Physics challenge"
       subhref: "/CMR-physics-challenge.html"
     - subtitle: "CMR DL Recon challenge"
       subhref: "/CMR-deep-learning-reconstruction-challenge.html"
-      
-- title: "Tutorial 2/Awards"
-  href: "/Awards_Session.html"

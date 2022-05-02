@@ -1,6 +1,6 @@
-<img src="MIT_logo_small.jpg" height="80%" width="80%"/>
+<img src="CMR_LittleHelpFromAI2.jpg" height="80%" width="80%"/>
 
-## ISMRM Member initiated tutorial
+## Cardiovascular MR
 
 <nav>
   <ul>
@@ -20,7 +20,7 @@
          <td class="active">
            <a href="{{ nav.url }}">{{ nav.title }}</a>
          </td>
-      {% else %} 
+      {% else %}
         <td>
           <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
         </td>
@@ -29,20 +29,35 @@
       </tr>
     </table>
   </ul>
-</nav> 
+</nav>
 
 ## Overview
-Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of imaging and reconstruction methods pose some limitations to the widespread use of CMR. Therefore, it is necessary to bridge the gap between the clinical and scientific communities. 
-The tutorial at the ISMRM 2021 annual meeting on **Saturday 15th of May 2021, 16:00 to 20:30 UTC** will cover in five sessions different aspects of CMR:  
+Cardiovascular magnetic resonance (CMR) has emerged as a clinically important technique for the assessment of cardiac anatomy, function, perfusion and viability. However, diversity and complexity of imaging and reconstruction methods pose some limitations to the widespread use of CMR. Therefore, it is necessary to bridge the gap between the clinical and scientific communities.
+We hosted two ISMRM Member initiated tutorials at the
+- [ISMRM 2021](Tutorial_session.md): Cardiovascular MR - From Theory to Practice
+- [ISMRM 2022](ISMRM_2022.md): Cardiovascular MR - With a little help from AI
+annual meetings which covered the topics:
+
 1. CMR methods for identifying cardiovascular disease with a case-based tutorial
 2. Conduction and planning of a complete CMR exam
-3. CMR pulse sequence building with a live computational MR physics tutorial
-4. Machine learning for CMR image reconstruction with a live deep learning tutorial
+3. CMR pulse sequence building
+4. Machine learning for CMR image analysis and reconstruction
 5. Panel discussion on current challenges and future directions of CMR
 
-Sessions 1 and 2 will provide a clinical background while sessions 3 and 4 cover state-of-the-art acquisition and reconstruction methods and current research developments including recent advances in the field of deep learning. Sessions 3 and 4 will host a code challenge for the audience to participate in. 
+We provide [hands-on tutorials](Challenges.md) and a [live scanning video demonstration](encrypted.html). The presented topics are summarized in a [review paper](https://www.frontiersin.org/articles/10.3389/fcvm.2022.826283/full):
 
-Awards will be announced on **Thursday, May 20 at 18:00 - 19:00 UTC**. 
+```
+@ARTICLE{10.3389/fcvm.2022.826283,
+AUTHOR={Ismail, Tevfik F. and Strugnell, Wendy and Coletti, Chiara and Božić-Iven, Maša and Weingärtner, Sebastian and Hammernik, Kerstin and Correia, Teresa and Küstner, Thomas},   
+TITLE={Cardiac MR: From Theory to Practice},      
+JOURNAL={Frontiers in Cardiovascular Medicine},      
+VOLUME={9},      
+YEAR={2022},      
+URL={https://www.frontiersin.org/article/10.3389/fcvm.2022.826283},       
+DOI={10.3389/fcvm.2022.826283},      
+ISSN={2297-055X},   
+}
+```
 
 ## Target Audience
 Physicians, radiographers, physicists, engineers, who wish to understand the main clinical applications of CMR, acquisition and reconstruction methods. The tutorial is suitable for beginners in the field and for more advanced users to refresh or deepen their understanding on different aspects of CMR.
@@ -51,11 +66,7 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 * Understand basic cardiac anatomy, cardiovascular diseases, and its characterization by CMR and other diagnostic tools
 * Describe the basic CMR examination and recognize the advantages and limitations of the technique
 * Explain the basics of anatomical, functional, multi-multiparametric and quantitative imaging
-* Explain the basics of deep learning-based methods for image reconstruction.
-
-## Sessions
-[Tutorial session: Saturday, May 15 2021, 16:00 - 20:30 UTC](Tutorial_session.md)<br/>
-[Awards session: Thursday, May 20 2021, 18:00 - 19:00 UTC](Awards_Session.md)
+* Explain the basics of deep learning-based methods for image analysis and reconstruction
 
 ### Organization/moderation
 [Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
@@ -63,25 +74,21 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 ### Speakers
 1. Tevfik F. Ismail, MD, PhD, FSCMR<br/>
 King's College London, United Kingdom<br/>
-**[Clinical Cardiovascular MR: What do we see and why do we need it?](Talk1.md)**
 2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
 Queensland X-Ray, Mater Hospital Brisbane, Australia<br/>
-**[Clinical Cardiovascular MR: How should we perform the examination](Talk2.md)**
 3. Sebastian Weingärtner, PhD<br/>
 Delft University of Technology, Netherlands<br/>
-**[The Physics behind Cardiovascular MR & Challenge](CMR-physics-challenge.md)**
 4. Kerstin Hammernik, PhD<br/>
 Technical University of Munich, Germany<br/>
-**[Recent Advances in Machine Learning for CMR & Challenge](CMR-deep-learning-reconstruction-challenge.md)**
 
 ## Challenges
 [CMR physics challenge](CMR-physics-challenge.md)<br/>
 [CMR deep learning reconstruction challenge](CMR-deep-learning-reconstruction-challenge.md)
 
 ## Live scanning
-[Live scanning video](encrypted.html) 
+[Live scanning video](encrypted.html)
 
-## Contact info 
+## Contact info
 If you have any questions, please contact:<br/>
 [Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) <br/>
-[Thomas Küstner](http://www.midaslab.org/people.html) 
+[Thomas Küstner](http://www.midaslab.org/people.html)
