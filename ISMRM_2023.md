@@ -1,4 +1,4 @@
-<img src="CMR_LittleHelpFromAI2.jpg" height="80%" width="80%"/>
+<img src="Logo_ISMRM23.png" height="100%" width="100%"/>
 
 # ISMRM 2023 Member initiated tutorial: The Cardiac MRI Rodeo - Taming AI for Clinical Practice
 

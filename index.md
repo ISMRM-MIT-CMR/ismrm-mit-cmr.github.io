@@ -1,4 +1,4 @@
-<img src="CMR_LittleHelpFromAI2.jpg" height="80%" width="80%"/>
+<img src="Logo_combined.png" height="80%" width="80%"/>
 
 ## Cardiovascular MR
 
