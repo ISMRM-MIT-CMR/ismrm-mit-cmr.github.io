@@ -1,6 +1,6 @@
 <img src="CMR_LittleHelpFromAI2.jpg" height="80%" width="80%"/>
 
-# ISMRM 2022 Member initiated tutorial
+# ISMRM 2022 Member initiated tutorial: Cardiovascular MR - With a little help from AI
 
 <nav>
   <ul>

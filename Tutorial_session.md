@@ -1,6 +1,6 @@
 <img src="MIT_logo_small.jpg" height="80%" width="80%"/>
 
-# ISMRM 2021 Member initiated tutorial
+# ISMRM 2021 Member initiated tutorial: Cardiovascular MR - From Theory to Practice
 
 <nav>
   <ul>
@@ -42,7 +42,7 @@ The tutorial at the ISMRM 2021 annual meeting on **Saturday 15th of May 2021, 16
 
 Sessions 1 and 2 will provide a clinical background while sessions 3 and 4 cover state-of-the-art acquisition and reconstruction methods and current research developments including recent advances in the field of deep learning. Sessions 3 and 4 will host a code challenge for the audience to participate in.
 
-Awards will be announced on **Thursday, May 20 at 18:00 - 19:00 UTC**.
+Awards will be announced on **Thursday, 20 May 2021 at 18:00 - 19:00 UTC**.
 
 ## Target Audience
 Physicians, radiographers, physicists, engineers, who wish to understand the main clinical applications of CMR, acquisition and reconstruction methods. The tutorial is suitable for beginners in the field and for more advanced users to refresh or deepen their understanding on different aspects of CMR.

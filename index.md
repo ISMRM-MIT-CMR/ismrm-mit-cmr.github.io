@@ -36,16 +36,18 @@ Cardiovascular magnetic resonance (CMR) has emerged as a clinically important te
 We hosted two ISMRM Member initiated tutorials at the
 - [ISMRM 2021](Tutorial_session.md): Cardiovascular MR - From Theory to Practice
 - [ISMRM 2022](ISMRM_2022.md): Cardiovascular MR - With a little help from AI
+- [ISMRM 2023](ISMRM_2023.md): The Cardiac MRI Rodeo: Taming AI for Clinical Practice
 
 annual meetings which covered the topics:
 
 1. CMR methods for identifying cardiovascular disease with a case-based tutorial
 2. Conduction and planning of a complete CMR exam
 3. CMR pulse sequence building
-4. Machine learning for CMR image analysis and reconstruction
-5. Panel discussion on current challenges and future directions of CMR
+4. Artificial intelligence for CMR image analysis and reconstruction
+5. Potentials, pitfalls and challenges of artificial intelligence for CMR
+6. Panel discussion on current challenges and future directions of CMR
 
-We provide [hands-on tutorials](Challenges.md) and a [live scanning video demonstration](encrypted.html). The presented topics are summarized in a [review paper](https://www.frontiersin.org/articles/10.3389/fcvm.2022.826283/full):
+We provide [hands-on tutorials](Challenges.md), a [live scanning video demonstration](encrypted.html) and [teaching material](ISMRM_2022.md). The presented topics are summarized in a [review paper](https://www.frontiersin.org/articles/10.3389/fcvm.2022.826283/full):
 
 ```
 @ARTICLE{10.3389/fcvm.2022.826283,
@@ -68,19 +70,7 @@ Physicians, radiographers, physicists, engineers, who wish to understand the mai
 * Describe the basic CMR examination and recognize the advantages and limitations of the technique
 * Explain the basics of anatomical, functional, multi-multiparametric and quantitative imaging
 * Explain the basics of deep learning-based methods for image analysis and reconstruction
-
-### Organization/moderation
-[Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
-
-### Speakers
-1. Tevfik F. Ismail, MD, PhD, FSCMR<br/>
-King's College London, United Kingdom<br/>
-2. Wendy Strugnell, BSc (MIT), FSMRT<br/>
-Queensland X-Ray, Mater Hospital Brisbane, Australia<br/>
-3. Sebastian Weingärtner, PhD<br/>
-Delft University of Technology, Netherlands<br/>
-4. Kerstin Hammernik, PhD<br/>
-Technical University of Munich, Germany<br/>
+* Understand the potentials and challenges of artificial intelligence for CMR
 
 ## Challenges
 [CMR physics challenge](CMR-physics-challenge.md)<br/>
@@ -89,7 +79,5 @@ Technical University of Munich, Germany<br/>
 ## Live scanning
 [Live scanning video](encrypted.html)
 
-## Contact info
-If you have any questions, please contact:<br/>
-[Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) <br/>
-[Thomas Küstner](http://www.midaslab.org/people.html)
+## Organization/moderation
+[Teresa Correia](https://www.ccmar.ualg.pt/users/tmcorreia) & [Thomas Küstner](http://www.midaslab.org/people.html)
