@@ -1,4 +1,4 @@
-<img src="Logo_combined.png" height="80%" width="80%"/>
+<img src="Logo_combined.png" height="100%" width="100%"/>
 
 ## Cardiovascular MR
 
