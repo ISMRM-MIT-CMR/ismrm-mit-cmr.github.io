@@ -61,7 +61,7 @@ DOI={10.3389/fcvm.2022.826283},
 ISSN={2297-055X},   
 }
 ```
-<img src="CMR_review.JPG" height="70%" width="70%">
+<img src="CMR_review.JPG" height="80%" width="80%">
 
 ## Target Audience
 Physicians, radiographers, physicists, engineers, who wish to understand the main clinical applications of CMR, acquisition and reconstruction methods. The tutorial is suitable for beginners in the field and for more advanced users to refresh or deepen their understanding on different aspects of CMR.
